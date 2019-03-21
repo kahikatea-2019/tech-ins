@@ -3,30 +3,111 @@
 
 Please keep in touch with your facilitator during the week, it is both the responsibility of the student and the facilitator to organise a tech in. If a facilitator has not come to you to have a tech in, please go to your facilitator and ask for one.
 
+## Week 1
+
+| Student      | Facilitator |
+| ------------ | ----------- |
+| Alice        | Bryce       |
+| Phillip L    | Emily       |
+| Ihaka        | Chris       |
+| Struan       | Don         |
+| Azaan        | Bryce       |
+| Ete          | Emily       |
+| Matt         | Chris       |
+| Amy          | Don         |
+| Bradley      | Bryce       |
+| Eve          | Emily       |
+| John         | Chris       |
+| Paul         | Don         |
+| Dani         | Bryce       |
+| Raj          | Emily       |
+| Phillip J    | Chris       |
+| Xjana        | Don         |
+
+
 ## Week 2
 
 | Student      | Facilitator |
 | ------------ | ----------- |
-|              | Bryce       |
-|              | Emily       |
-|              | Chris       |
-|              | Don         |
-|              | Bryce       |
-|              | Emily       |
-|              | Chris       |
-|              | Don         |
+| Alice        | Emily       |
+| Phillip L    | Chris       |
+| Ihaka        | Don         |
+| Struan       | Bryce       |
+| Azaan        | Emily       |
+| Ete          | Chris       |
+| Matt         | Don         |
+| Amy          | Bryce       |
+| Bradley      | Emily       |
+| Eve          | Chris       |
+| John         | Don         |
+| Paul         | Bryce       |
+| Dani         | Emily       |
+| Raj          | Chris       |
+| Phillip J    | Don         |
+| Xjana        | Bryce       |
+
 
 ## Week 3
 
 | Student      | Facilitator |
 | ------------ | ----------- |
-|              | Bryce       |
-|              | Emily       |
-|              | Chris       |
-|              | Don         |
-|              | Bryce       |
-|              | Emily       |
-|              | Chris       |
-|              | Don         |
+| Alice        | Chris       |
+| Phillip L    | Don         |
+| Ihaka        | Bryce       |
+| Struan       | Emily       |
+| Azaan        | Chris       |
+| Ete          | Don         |
+| Matt         | Bryce       |
+| Amy          | Emily       |
+| Bradley      | Chris       |
+| Eve          | Don         |
+| John         | Bryce       |
+| Paul         | Emily       |
+| Dani         | Chris       |
+| Raj          | Don         |
+| Phillip J    | Bryce       |
+| Xjana        | Emily       |
 
-More to come...
+
+## Week 5
+
+| Student      | Facilitator |
+| ------------ | ----------- |
+| Alice        | Don         |
+| Phillip L    | Bryce       |
+| Ihaka        | Emily       |
+| Struan       | Chris       |
+| Azaan        | Don         |
+| Ete          | Bryce       |
+| Matt         | Emily       |
+| Amy          | Chris       |
+| Bradley      | Don         |
+| Eve          | Bryce       |
+| John         | Emily       |
+| Paul         | Chris       |
+| Dani         | Don         |
+| Raj          | Bryce       |
+| Phillip J    | Emily       |
+| Xjana        | Chris       |
+
+
+## Week 7
+
+| Student      | Facilitator |
+| ------------ | ----------- |
+| Alice        | Bryce       |
+| Phillip L    | Emily       |
+| Ihaka        | Chris       |
+| Struan       | Don         |
+| Azaan        | Bryce       |
+| Ete          | Emily       |
+| Matt         | Chris       |
+| Amy          | Don         |
+| Bradley      | Bryce       |
+| Eve          | Emily       |
+| John         | Chris       |
+| Paul         | Don         |
+| Dani         | Bryce       |
+| Raj          | Emily       |
+| Phillip J    | Chris       |
+| Xjana        | Don         |
