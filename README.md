@@ -8,30 +8,30 @@ During weeks 4, 6, 8 and 9 if you would like to have a tech in - feel free to gr
 
 ## Week 1
 
-| Student      | Facilitator |
-| ------------ | ----------- |
+| Student      | Facilitator | Done |
+| ------------ | ----------- | ---- |
 | Alice        | Bryce       |
 | Phillip L    | Emily       |
 | Ihaka        | Chris       |
-| Struan       | Don         |
+| Struan       | Don         | :heavy_check_mark: |
 | Azaan        | Bryce       |
 | Ete          | Emily       |
 | Matt         | Chris       |
-| Amy          | Don         |
+| Amy          | Don         | :heavy_check_mark: |
 | Bradley      | Bryce       |
 | Eve          | Emily       |
 | John         | Chris       |
-| Paul         | Don         |
+| Paul         | Don         | :heavy_check_mark: |
 | Dani         | Bryce       |
 | Raj          | Emily       |
 | Phillip J    | Chris       |
-| Xjana        | Don         |
+| Xjana        | Don         | :heavy_check_mark: |
 
 
 ## Week 2
 
-| Student      | Facilitator |
-| ------------ | ----------- |
+| Student      | Facilitator | Done |
+| ------------ | ----------- | ---- |
 | Alice        | Emily       |
 | Phillip L    | Chris       |
 | Ihaka        | Don         |
@@ -52,8 +52,8 @@ During weeks 4, 6, 8 and 9 if you would like to have a tech in - feel free to gr
 
 ## Week 3
 
-| Student      | Facilitator |
-| ------------ | ----------- |
+| Student      | Facilitator | Done |
+| ------------ | ----------- | ---- |
 | Alice        | Chris       |
 | Phillip L    | Don         |
 | Ihaka        | Bryce       |
@@ -74,8 +74,8 @@ During weeks 4, 6, 8 and 9 if you would like to have a tech in - feel free to gr
 
 ## Week 5
 
-| Student      | Facilitator |
-| ------------ | ----------- |
+| Student      | Facilitator | Done |
+| ------------ | ----------- | ---- |
 | Alice        | Don         |
 | Phillip L    | Bryce       |
 | Ihaka        | Emily       |
@@ -96,8 +96,8 @@ During weeks 4, 6, 8 and 9 if you would like to have a tech in - feel free to gr
 
 ## Week 7
 
-| Student      | Facilitator |
-| ------------ | ----------- |
+| Student      | Facilitator | Done |
+| ------------ | ----------- | ---- |
 | Alice        | Bryce       |
 | Phillip L    | Emily       |
 | Ihaka        | Chris       |
