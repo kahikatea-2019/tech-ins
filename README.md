@@ -24,7 +24,7 @@ During weeks 4, 6, 8 and 9 if you would like to have a tech in - feel free to gr
 | Paul         | Don         | :heavy_check_mark: |
 | Dani         | Bryce       | :heavy_check_mark: |
 | Raj          | Emily       | :heavy_check_mark: |
-| Phillip J    | Chris       | :heavy_check_mark:
+| Phillip J    | Chris       | :heavy_check_mark: |
 | Xjana        | Don         | :heavy_check_mark: |
 
 
@@ -41,7 +41,7 @@ During weeks 4, 6, 8 and 9 if you would like to have a tech in - feel free to gr
 | Matt         | Don         |
 | Amy          | Bryce       |
 | Bradley      | Emily       |
-| Eve          | Chris       |
+| Eve          | Chris       | :heavy_check_mark: |
 | John         | Don         |
 | Paul         | Bryce       |
 | Dani         | Emily       |
