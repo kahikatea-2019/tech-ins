@@ -33,11 +33,11 @@ During weeks 4, 6, 8 and 9 if you would like to have a tech in - feel free to gr
 | Student      | Facilitator | Done |
 | ------------ | ----------- | ---- |
 | Alice        | Emily       |
-| Phillip L    | Chris       |
+| Phillip L    | Chris       | :heavy_check_mark: |
 | Ihaka        | Don         |
 | Struan       | Bryce       |
 | Azaan        | Emily       |
-| Ete          | Chris       |
+| Ete          | Chris       | :heavy_check_mark: |
 | Matt         | Don         |
 | Amy          | Bryce       |
 | Bradley      | Emily       |
