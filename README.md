@@ -12,19 +12,19 @@ During weeks 4, 6, 8 and 9 if you would like to have a tech in - feel free to gr
 | ------------ | ----------- | ---- |
 | Alice        | Bryce       | :heavy_check_mark: |
 | Phillip L    | Emily       | :heavy_check_mark: |
-| Ihaka        | Chris       |
+| Ihaka        | Chris       | :heavy_check_mark:
 | Struan       | Don         | :heavy_check_mark: |
 | Azaan        | Bryce       |
 | Ete          | Emily       | :heavy_check_mark: |
-| Matt         | Chris       |
+| Matt         | Chris       | :heavy_check_mark:
 | Amy          | Don         | :heavy_check_mark: |
 | Bradley      | Bryce       | :heavy_check_mark: |
 | Eve          | Emily       | :heavy_check_mark: |
-| John         | Chris       |
+| John         | Chris       | :heavy_check_mark:
 | Paul         | Don         | :heavy_check_mark: |
 | Dani         | Bryce       | :heavy_check_mark: |
 | Raj          | Emily       | :heavy_check_mark: |
-| Phillip J    | Chris       |
+| Phillip J    | Chris       | :heavy_check_mark:
 | Xjana        | Don         | :heavy_check_mark: |
 
 
