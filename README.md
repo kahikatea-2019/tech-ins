@@ -47,7 +47,7 @@ During weeks 4, 6, 8 and 9 if you would like to have a tech in - feel free to gr
 | Dani         | Emily       |
 | Raj          | Chris       | :heavy_check_mark: |
 | Phillip J    | Don         | :heavy_check_mark: |
-| Xjana        | Bryce       |
+| Xjana        | Bryce       | :heavy_check_mark: |
 
 
 ## Week 3
