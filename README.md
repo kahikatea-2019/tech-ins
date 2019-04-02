@@ -32,19 +32,19 @@ During weeks 4, 6, 8 and 9 if you would like to have a tech in - feel free to gr
 
 | Student      | Facilitator | Done |
 | ------------ | ----------- | ---- |
-| Alice        | Emily       |
+| Alice        | Emily       | :heavy_check_mark: |
 | Phillip L    | Chris       | :heavy_check_mark: |
 | Ihaka        | Don         |
 | Struan       | Bryce       | :heavy_check_mark: |
-| Azaan        | Emily       |
+| Azaan        | Emily       | :heavy_check_mark: 
 | Ete          | Chris       | :heavy_check_mark: |
 | Matt         | Don         |
 | Amy          | Bryce       | :heavy_check_mark: |
-| Bradley      | Emily       |
+| Bradley      | Emily       | :heavy_check_mark: 
 | Eve          | Chris       | :heavy_check_mark: |
 | John         | Don         |
 | Paul         | Bryce       | :heavy_check_mark: |
-| Dani         | Emily       |
+| Dani         | Emily       | :heavy_check_mark: 
 | Raj          | Chris       | :heavy_check_mark: |
 | Phillip J    | Don         | :heavy_check_mark: |
 | Xjana        | Bryce       | :heavy_check_mark: |
@@ -55,19 +55,19 @@ During weeks 4, 6, 8 and 9 if you would like to have a tech in - feel free to gr
 | Student      | Facilitator | Done |
 | ------------ | ----------- | ---- |
 | Alice        | Chris       |
-| Phillip L    | Don         |
+| Phillip L    | Emily       | 
 | Ihaka        | Bryce       |
 | Struan       | Emily       |
 | Azaan        | Chris       |
-| Ete          | Don         |
+| Ete          | Emily       |
 | Matt         | Bryce       |
 | Amy          | Emily       |
 | Bradley      | Chris       |
-| Eve          | Don         |
+| Eve          | Chris       |
 | John         | Bryce       |
 | Paul         | Emily       |
 | Dani         | Chris       |
-| Raj          | Don         |
+| Raj          | Chris       |
 | Phillip J    | Bryce       |
 | Xjana        | Emily       |
 
