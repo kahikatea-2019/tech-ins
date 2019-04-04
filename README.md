@@ -56,7 +56,7 @@ During weeks 4, 6, 8 and 9 if you would like to have a tech in - feel free to gr
 | ------------ | ----------- | ---- |
 | Alice        | Chris       | :heavy_check_mark: |
 | Phillip L    | Emily       | 
-| Ihaka        | Bryce       |
+| Ihaka        | Bryce       | :heavy_check_mark: |
 | Struan       | Emily       |
 | Azaan        | Chris       |
 | Ete          | Emily       |
