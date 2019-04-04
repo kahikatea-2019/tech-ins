@@ -60,15 +60,15 @@ During weeks 4, 6, 8 and 9 if you would like to have a tech in - feel free to gr
 | Struan       | Emily       |
 | Azaan        | Chris       | :heavy_check_mark: |
 | Ete          | Emily       |
-| Matt         | Bryce       |
+| Matt         | Chris       |
 | Amy          | Emily       | :heavy_check_mark: |
 | Bradley      | Chris       |
 | Eve          | Chris       | :heavy_check_mark: |
-| John         | Bryce       |
+| John         | Chris       |
 | Paul         | Emily       | :heavy_check_mark: |
 | Dani         | Chris       |
 | Raj          | Chris       | :heavy_check_mark: |
-| Phillip J    | Bryce       |
+| Phillip J    | Chris       |
 | Xjana        | Emily       | :heavy_check_mark: |
 
 
