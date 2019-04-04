@@ -54,7 +54,7 @@ During weeks 4, 6, 8 and 9 if you would like to have a tech in - feel free to gr
 
 | Student      | Facilitator | Done |
 | ------------ | ----------- | ---- |
-| Alice        | Chris       |
+| Alice        | Chris       | :heavy_check_mark: |
 | Phillip L    | Emily       | 
 | Ihaka        | Bryce       |
 | Struan       | Emily       |
@@ -63,11 +63,11 @@ During weeks 4, 6, 8 and 9 if you would like to have a tech in - feel free to gr
 | Matt         | Bryce       |
 | Amy          | Emily       |
 | Bradley      | Chris       |
-| Eve          | Chris       |
+| Eve          | Chris       | :heavy_check_mark: |
 | John         | Bryce       |
 | Paul         | Emily       |
 | Dani         | Chris       |
-| Raj          | Chris       |
+| Raj          | Chris       | :heavy_check_mark: |
 | Phillip J    | Bryce       |
 | Xjana        | Emily       |
 
