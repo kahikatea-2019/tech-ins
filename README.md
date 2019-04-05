@@ -62,7 +62,7 @@ During weeks 4, 6, 8 and 9 if you would like to have a tech in - feel free to gr
 | Ete          | Emily       | :heavy_check_mark: |
 | Matt         | Chris       | :heavy_check_mark: |
 | Amy          | Emily       | :heavy_check_mark: |
-| Bradley      | Chris       |
+| Bradley      | Chris       | :heavy_check_mark: |
 | Eve          | Chris       | :heavy_check_mark: |
 | John         | Chris       |
 | Paul         | Emily       | :heavy_check_mark: |
