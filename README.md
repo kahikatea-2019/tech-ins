@@ -76,19 +76,19 @@ During weeks 4, 6, 8 and 9 if you would like to have a tech in - feel free to gr
 
 | Student      | Facilitator | Done |
 | ------------ | ----------- | ---- |
-| Alice        | Don         |
+| Alice        | Emily       |
 | Phillip L    | Bryce       |
 | Ihaka        | Emily       |
 | Struan       | Chris       |
-| Azaan        | Don         |
+| Azaan        | Chris       |
 | Ete          | Bryce       |
 | Matt         | Emily       |
 | Amy          | Chris       |
-| Bradley      | Don         |
+| Bradley      | Emily       |
 | Eve          | Bryce       |
 | John         | Emily       |
 | Paul         | Chris       |
-| Dani         | Don         |
+| Dani         | Emily       |
 | Raj          | Bryce       |
 | Phillip J    | Emily       |
 | Xjana        | Chris       |
