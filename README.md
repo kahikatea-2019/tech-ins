@@ -79,16 +79,16 @@ During weeks 4, 6, 8 and 9 if you would like to have a tech in - feel free to gr
 | Alice        | Emily       |
 | Phillip L    | Chris       |
 | Ihaka        | Emily       |
-| Struan       | Chris       |:heavy_check_mark: |
-| Azaan        | Emily       |
+| Struan       | Chris       | :heavy_check_mark: |
+| Azaan        | Emily       | :heavy_check_mark: |
 | Ete          | Chris       |
 | Matt         | Emily       |
 | Amy          | Chris       |
-| Bradley      | Emily       |
+| Bradley      | Emily       | :heavy_check_mark: |
 | Eve          | Chris       |
 | John         | Emily       |
 | Paul         | Chris       |
-| Dani         | Emily       |
+| Dani         | Emily       | :heavy_check_mark: |
 | Raj          | Chris       |
 | Phillip J    | Emily       |
 | Xjana        | Chris       |
