@@ -76,7 +76,7 @@ During weeks 4, 6, 8 and 9 if you would like to have a tech in - feel free to gr
 
 | Student      | Facilitator | Done |
 | ------------ | ----------- | ---- |
-| Alice        | Emily       |
+| Alice        | Emily       | :heavy_check_mark: |
 | Phillip L    | Chris       |
 | Ihaka        | Emily       |
 | Struan       | Chris       | :heavy_check_mark: |
