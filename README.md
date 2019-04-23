@@ -83,7 +83,7 @@ During weeks 4, 6, 8 and 9 if you would like to have a tech in - feel free to gr
 | Azaan        | Emily       | :heavy_check_mark: |
 | Ete          | Chris       | :heavy_check_mark: |
 | Matt         | Emily       | :heavy_check_mark: |
-| Amy          | Chris       |
+| Amy          | Chris       | :heavy_check_mark: |
 | Bradley      | Emily       | :heavy_check_mark: |
 | Eve          | Chris       |
 | John         | Chris       | :heavy_check_mark: |
