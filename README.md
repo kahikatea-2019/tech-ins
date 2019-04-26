@@ -90,7 +90,7 @@ During weeks 4, 6, 8 and 9 if you would like to have a tech in - feel free to gr
 | Paul         | Chris       |
 | Dani         | Emily       | :heavy_check_mark: |
 | Raj          | Chris       | :heavy_check_mark: |
-| Phillip J    | Chris       |
+| Phillip J    | Don         | :heavy_check_mark: |
 | Xjana        | Chris       |
 
 
