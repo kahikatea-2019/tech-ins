@@ -11,7 +11,7 @@ During weeks 4, 6, 8 and 9 if you would like to have a tech in - feel free to gr
 | Student      | Facilitator | Done |
 | ------------ | ----------- | ---- |
 | Alice        | Bryce       | :heavy_check_mark: |
-| Phillip L    | Emily       | :heavy_check_mark: |
+| Philip L     | Emily       | :heavy_check_mark: |
 | Ihaka        | Chris       | :heavy_check_mark:
 | Struan       | Don         | :heavy_check_mark: |
 | Azaan        | Bryce       |
@@ -24,7 +24,7 @@ During weeks 4, 6, 8 and 9 if you would like to have a tech in - feel free to gr
 | Paul         | Don         | :heavy_check_mark: |
 | Dani         | Bryce       | :heavy_check_mark: |
 | Raj          | Emily       | :heavy_check_mark: |
-| Phillip J    | Chris       | :heavy_check_mark: |
+| Philip J     | Chris       | :heavy_check_mark: |
 | Xjana        | Don         | :heavy_check_mark: |
 
 
@@ -33,7 +33,7 @@ During weeks 4, 6, 8 and 9 if you would like to have a tech in - feel free to gr
 | Student      | Facilitator | Done |
 | ------------ | ----------- | ---- |
 | Alice        | Emily       | :heavy_check_mark: |
-| Phillip L    | Chris       | :heavy_check_mark: |
+| Philip L     | Chris       | :heavy_check_mark: |
 | Ihaka        | Don         |
 | Struan       | Bryce       | :heavy_check_mark: |
 | Azaan        | Emily       | :heavy_check_mark: 
@@ -46,7 +46,7 @@ During weeks 4, 6, 8 and 9 if you would like to have a tech in - feel free to gr
 | Paul         | Bryce       | :heavy_check_mark: |
 | Dani         | Emily       | :heavy_check_mark: 
 | Raj          | Chris       | :heavy_check_mark: |
-| Phillip J    | Don         | :heavy_check_mark: |
+| Philip J     | Don         | :heavy_check_mark: |
 | Xjana        | Bryce       | :heavy_check_mark: |
 
 
@@ -55,7 +55,7 @@ During weeks 4, 6, 8 and 9 if you would like to have a tech in - feel free to gr
 | Student      | Facilitator | Done |
 | ------------ | ----------- | ---- |
 | Alice        | Chris       | :heavy_check_mark: |
-| Phillip L    | Emily       | :heavy_check_mark: |
+| Philip L     | Emily       | :heavy_check_mark: |
 | Ihaka        | Chris       | :heavy_check_mark: |
 | Struan       | Emily       | :heavy_check_mark: |
 | Azaan        | Chris       | :heavy_check_mark: |
@@ -68,7 +68,7 @@ During weeks 4, 6, 8 and 9 if you would like to have a tech in - feel free to gr
 | Paul         | Emily       | :heavy_check_mark: |
 | Dani         | Chris       | :heavy_check_mark: |
 | Raj          | Chris       | :heavy_check_mark: |
-| Phillip J    | Chris       | :heavy_check_mark: |
+| Philip J     | Chris       | :heavy_check_mark: |
 | Xjana        | Emily       | :heavy_check_mark: |
 
 
@@ -77,7 +77,7 @@ During weeks 4, 6, 8 and 9 if you would like to have a tech in - feel free to gr
 | Student      | Facilitator | Done |
 | ------------ | ----------- | ---- |
 | Alice        | Emily       | :heavy_check_mark: |
-| Phillip L    | Chris       | :heavy_check_mark: |
+| Philip L     | Chris       | :heavy_check_mark: |
 | Ihaka        | Chris       | :heavy_check_mark: |
 | Struan       | Chris       | :heavy_check_mark: |
 | Azaan        | Emily       | :heavy_check_mark: |
@@ -90,7 +90,7 @@ During weeks 4, 6, 8 and 9 if you would like to have a tech in - feel free to gr
 | Paul         | Chris       |
 | Dani         | Emily       | :heavy_check_mark: |
 | Raj          | Chris       | :heavy_check_mark: |
-| Phillip J    | Don         | :heavy_check_mark: |
+| Philip J     | Don         | :heavy_check_mark: |
 | Xjana        | Chris       |
 
 
@@ -99,7 +99,7 @@ During weeks 4, 6, 8 and 9 if you would like to have a tech in - feel free to gr
 | Student      | Facilitator | Done |
 | ------------ | ----------- | ---- |
 | Alice        | Bryce       |
-| Phillip L    | Emily       |
+| Philip L     | Emily       |
 | Ihaka        | Chris       |
 | Struan       | Don         |
 | Azaan        | Bryce       |
@@ -112,5 +112,5 @@ During weeks 4, 6, 8 and 9 if you would like to have a tech in - feel free to gr
 | Paul         | Don         |
 | Dani         | Bryce       |
 | Raj          | Emily       |
-| Phillip J    | Chris       |
+| Philip J     | Chris       |
 | Xjana        | Don         |
