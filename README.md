@@ -10,87 +10,87 @@ During weeks 4, 6, 8 and 9 if you would like to have a tech in - feel free to gr
 
 | Student      | Facilitator | Done |
 | ------------ | ----------- | ---- |
-| Alice        | Bryce       | :heavy_check_mark: |
-| Philip L     | Emily       | :heavy_check_mark: |
-| Ihaka        | Chris       | :heavy_check_mark:
-| Struan       | Don         | :heavy_check_mark: |
+| Alice        | Bryce       | ✔️ |
+| Philip L     | Emily       | ✔️ |
+| Ihaka        | Chris       | ✔️
+| Struan       | Don         | ✔️ |
 | Azaan        | Bryce       |
-| Ete          | Emily       | :heavy_check_mark: |
-| Matt         | Chris       | :heavy_check_mark:
-| Amy          | Don         | :heavy_check_mark: |
-| Bradley      | Bryce       | :heavy_check_mark: |
-| Eve          | Emily       | :heavy_check_mark: |
-| John         | Chris       | :heavy_check_mark: |
-| Paul         | Don         | :heavy_check_mark: |
-| Dani         | Bryce       | :heavy_check_mark: |
-| Raj          | Emily       | :heavy_check_mark: |
-| Philip J     | Chris       | :heavy_check_mark: |
-| Xjana        | Don         | :heavy_check_mark: |
+| Ete          | Emily       | ✔️ |
+| Matt         | Chris       | ✔️
+| Amy          | Don         | ✔️ |
+| Bradley      | Bryce       | ✔️ |
+| Eve          | Emily       | ✔️ |
+| John         | Chris       | ✔️ |
+| Paul         | Don         | ✔️ |
+| Dani         | Bryce       | ✔️ |
+| Raj          | Emily       | ✔️ |
+| Philip J     | Chris       | ✔️ |
+| Xjana        | Don         | ✔️ |
 
 
 ## Week 2
 
 | Student      | Facilitator | Done |
 | ------------ | ----------- | ---- |
-| Alice        | Emily       | :heavy_check_mark: |
-| Philip L     | Chris       | :heavy_check_mark: |
+| Alice        | Emily       | ✔️ |
+| Philip L     | Chris       | ✔️ |
 | Ihaka        | Don         |
-| Struan       | Bryce       | :heavy_check_mark: |
-| Azaan        | Emily       | :heavy_check_mark: 
-| Ete          | Chris       | :heavy_check_mark: |
+| Struan       | Bryce       | ✔️ |
+| Azaan        | Emily       | ✔️ 
+| Ete          | Chris       | ✔️ |
 | Matt         | Don         |
-| Amy          | Bryce       | :heavy_check_mark: |
-| Bradley      | Emily       | :heavy_check_mark: 
-| Eve          | Chris       | :heavy_check_mark: |
+| Amy          | Bryce       | ✔️ |
+| Bradley      | Emily       | ✔️ 
+| Eve          | Chris       | ✔️ |
 | John         | Don         |
-| Paul         | Bryce       | :heavy_check_mark: |
-| Dani         | Emily       | :heavy_check_mark: 
-| Raj          | Chris       | :heavy_check_mark: |
-| Philip J     | Don         | :heavy_check_mark: |
-| Xjana        | Bryce       | :heavy_check_mark: |
+| Paul         | Bryce       | ✔️ |
+| Dani         | Emily       | ✔️ 
+| Raj          | Chris       | ✔️ |
+| Philip J     | Don         | ✔️ |
+| Xjana        | Bryce       | ✔️ |
 
 
 ## Week 3
 
 | Student      | Facilitator | Done |
 | ------------ | ----------- | ---- |
-| Alice        | Chris       | :heavy_check_mark: |
-| Philip L     | Emily       | :heavy_check_mark: |
-| Ihaka        | Chris       | :heavy_check_mark: |
-| Struan       | Emily       | :heavy_check_mark: |
-| Azaan        | Chris       | :heavy_check_mark: |
-| Ete          | Emily       | :heavy_check_mark: |
-| Matt         | Chris       | :heavy_check_mark: |
-| Amy          | Emily       | :heavy_check_mark: |
-| Bradley      | Chris       | :heavy_check_mark: |
-| Eve          | Chris       | :heavy_check_mark: |
-| John         | Chris       | :heavy_check_mark: |
-| Paul         | Emily       | :heavy_check_mark: |
-| Dani         | Chris       | :heavy_check_mark: |
-| Raj          | Chris       | :heavy_check_mark: |
-| Philip J     | Chris       | :heavy_check_mark: |
-| Xjana        | Emily       | :heavy_check_mark: |
+| Alice        | Chris       | ✔️ |
+| Philip L     | Emily       | ✔️ |
+| Ihaka        | Chris       | ✔️ |
+| Struan       | Emily       | ✔️ |
+| Azaan        | Chris       | ✔️ |
+| Ete          | Emily       | ✔️ |
+| Matt         | Chris       | ✔️ |
+| Amy          | Emily       | ✔️ |
+| Bradley      | Chris       | ✔️ |
+| Eve          | Chris       | ✔️ |
+| John         | Chris       | ✔️ |
+| Paul         | Emily       | ✔️ |
+| Dani         | Chris       | ✔️ |
+| Raj          | Chris       | ✔️ |
+| Philip J     | Chris       | ✔️ |
+| Xjana        | Emily       | ✔️ |
 
 
 ## Week 5
 
 | Student      | Facilitator | Done |
 | ------------ | ----------- | ---- |
-| Alice        | Emily       | :heavy_check_mark: |
-| Philip L     | Chris       | :heavy_check_mark: |
-| Ihaka        | Chris       | :heavy_check_mark: |
-| Struan       | Chris       | :heavy_check_mark: |
-| Azaan        | Emily       | :heavy_check_mark: |
-| Ete          | Chris       | :heavy_check_mark: |
-| Matt         | Emily       | :heavy_check_mark: |
-| Amy          | Chris       | :heavy_check_mark: |
-| Bradley      | Emily       | :heavy_check_mark: |
-| Eve          | Chris       | :heavy_check_mark: |
-| John         | Chris       | :heavy_check_mark: |
+| Alice        | Emily       | ✔️ |
+| Philip L     | Chris       | ✔️ |
+| Ihaka        | Chris       | ✔️ |
+| Struan       | Chris       | ✔️ |
+| Azaan        | Emily       | ✔️ |
+| Ete          | Chris       | ✔️ |
+| Matt         | Emily       | ✔️ |
+| Amy          | Chris       | ✔️ |
+| Bradley      | Emily       | ✔️ |
+| Eve          | Chris       | ✔️ |
+| John         | Chris       | ✔️ |
 | Paul         | Chris       |
-| Dani         | Emily       | :heavy_check_mark: |
-| Raj          | Chris       | :heavy_check_mark: |
-| Philip J     | Don         | :heavy_check_mark: |
+| Dani         | Emily       | ✔️ |
+| Raj          | Chris       | ✔️ |
+| Philip J     | Don         | ✔️ |
 | Xjana        | Chris       |
 
 
@@ -104,7 +104,7 @@ During weeks 4, 6, 8 and 9 if you would like to have a tech in - feel free to gr
 | Struan       | Emily       |
 | Azaan        | Bryce       |
 | Ete          | Bryce       |
-| Matt         | Chris       | :heavy_check_mark: |
+| Matt         | Chris       | ✔️ |
 | Amy          | Emily       |
 | Bradley      | Don         |
 | Eve          | Don         |
@@ -112,5 +112,5 @@ During weeks 4, 6, 8 and 9 if you would like to have a tech in - feel free to gr
 | Paul         | Chris       |
 | Dani         | Don         |
 | Raj          | Bryce       |
-| Philip J     | Don         | :heavy_check_mark: |
+| Philip J     | Don         | ✔️ |
 | Xjana        | Chris       |
