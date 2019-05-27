@@ -10,107 +10,107 @@ During weeks 4, 6, 8 and 9 if you would like to have a tech in - feel free to gr
 
 | Student      | Facilitator | Done |
 | ------------ | ----------- | ---- |
-| Andre        | Jess        |  |
-| Anisha       | Emily       |  |
-| Ash          | Jess        |  |
-| Celia        | Emily       |  |
-| David B      | Jess        |  |
-| David N      | Emily       |  |
-| Jared        | Jess        |  |
-| Jennie       | Emily       |  |
-| Joanna       | Jess        |  |
-| Kieth        | Emily       |  |
-| Noel         | Jess        |  |
-| Raaya        | Emily       |  |
-| Rahul        | Jess        |  |
-| Raslan       | Emily       |  |
-| Taine        | Jess        |  |
-| Tamari       | Emily       |  |
+| Alice        | Bryce       | ✔️ |
+| Philip L     | Emily       | ✔️ |
+| Ihaka        | Chris       | ✔️
+| Struan       | Don         | ✔️ |
+| Azaan        | Bryce       |
+| Ete          | Emily       | ✔️ |
+| Matt         | Chris       | ✔️
+| Amy          | Don         | ✔️ |
+| Bradley      | Bryce       | ✔️ |
+| Eve          | Emily       | ✔️ |
+| John         | Chris       | ✔️ |
+| Paul         | Don         | ✔️ |
+| Dani         | Bryce       | ✔️ |
+| Raj          | Emily       | ✔️ |
+| Philip J     | Chris       | ✔️ |
+| Xjana        | Don         | ✔️ |
 
 
 ## Week 2
 
 | Student      | Facilitator | Done |
 | ------------ | ----------- | ---- |
-| Andre        | Emily       |  |
-| Anisha       | Jess        |  |
-| Ash          | Emily       |  |
-| Celia        | Jess        |  |
-| David B      | Emily       |  |
-| David N      | Jess        |  |
-| Jared        | Emily       |  |
-| Jennie       | Jess        |  |
-| Joanna       | Emily       |  |
-| Kieth        | Jess        |  |
-| Noel         | Emily       |  |
-| Raaya        | Jess        |  |
-| Rahul        | Emily       |  |
-| Raslan       | Jess        |  |
-| Taine        | Emily       |  |
-| Tamari       | Jess        |  |
+| Alice        | Emily       | ✔️ |
+| Philip L     | Chris       | ✔️ |
+| Ihaka        | Don         |
+| Struan       | Bryce       | ✔️ |
+| Azaan        | Emily       | ✔️ 
+| Ete          | Chris       | ✔️ |
+| Matt         | Don         |
+| Amy          | Bryce       | ✔️ |
+| Bradley      | Emily       | ✔️ 
+| Eve          | Chris       | ✔️ |
+| John         | Don         |
+| Paul         | Bryce       | ✔️ |
+| Dani         | Emily       | ✔️ 
+| Raj          | Chris       | ✔️ |
+| Philip J     | Don         | ✔️ |
+| Xjana        | Bryce       | ✔️ |
 
 
 ## Week 3
 
 | Student      | Facilitator | Done |
 | ------------ | ----------- | ---- |
-| Andre        | Jess        |  |
-| Anisha       | Emily       |  |
-| Ash          | Jess        |  |
-| Celia        | Emily       |  |
-| David B      | Jess        |  |
-| David N      | Emily       |  |
-| Jared        | Jess        |  |
-| Jennie       | Emily       |  |
-| Joanna       | Jess        |  |
-| Kieth        | Emily       |  |
-| Noel         | Jess        |  |
-| Raaya        | Emily       |  |
-| Rahul        | Jess        |  |
-| Raslan       | Emily       |  |
-| Taine        | Jess        |  |
-| Tamari       | Emily       |  |
+| Alice        | Chris       | ✔️ |
+| Philip L     | Emily       | ✔️ |
+| Ihaka        | Chris       | ✔️ |
+| Struan       | Emily       | ✔️ |
+| Azaan        | Chris       | ✔️ |
+| Ete          | Emily       | ✔️ |
+| Matt         | Chris       | ✔️ |
+| Amy          | Emily       | ✔️ |
+| Bradley      | Chris       | ✔️ |
+| Eve          | Chris       | ✔️ |
+| John         | Chris       | ✔️ |
+| Paul         | Emily       | ✔️ |
+| Dani         | Chris       | ✔️ |
+| Raj          | Chris       | ✔️ |
+| Philip J     | Chris       | ✔️ |
+| Xjana        | Emily       | ✔️ |
 
 
 ## Week 5
 
 | Student      | Facilitator | Done |
 | ------------ | ----------- | ---- |
-| Andre        | Emily       |  |
-| Anisha       | Jess        |  |
-| Ash          | Emily       |  |
-| Celia        | Jess        |  |
-| David B      | Emily       |  |
-| David N      | Jess        |  |
-| Jared        | Emily       |  |
-| Jennie       | Jess        |  |
-| Joanna       | Emily       |  |
-| Kieth        | Jess        |  |
-| Noel         | Emily       |  |
-| Raaya        | Jess        |  |
-| Rahul        | Emily       |  |
-| Raslan       | Jess        |  |
-| Taine        | Emily       |  |
-| Tamari       | Jess        |  |
+| Alice        | Emily       | ✔️ |
+| Philip L     | Chris       | ✔️ |
+| Ihaka        | Chris       | ✔️ |
+| Struan       | Chris       | ✔️ |
+| Azaan        | Emily       | ✔️ |
+| Ete          | Chris       | ✔️ |
+| Matt         | Emily       | ✔️ |
+| Amy          | Chris       | ✔️ |
+| Bradley      | Emily       | ✔️ |
+| Eve          | Chris       | ✔️ |
+| John         | Chris       | ✔️ |
+| Paul         | Chris       |
+| Dani         | Emily       | ✔️ |
+| Raj          | Chris       | ✔️ |
+| Philip J     | Don         | ✔️ |
+| Xjana        | Chris       |
 
 
 ## Week 7
 
 | Student      | Facilitator | Done |
 | ------------ | ----------- | ---- |
-| Andre        | Jess        |  |
-| Anisha       | Emily       |  |
-| Ash          | Jess        |  |
-| Celia        | Emily       |  |
-| David B      | Jess        |  |
-| David N      | Emily       |  |
-| Jared        | Jess        |  |
-| Jennie       | Emily       |  |
-| Joanna       | Jess        |  |
-| Kieth        | Emily       |  |
-| Noel         | Jess        |  |
-| Raaya        | Emily       |  |
-| Rahul        | Jess        |  |
-| Raslan       | Emily       |  |
-| Taine        | Jess        |  |
-| Tamari       | Emily       |  |
+| Alice        | Don         |
+| Philip L     | Bryce       |
+| Ihaka        | Emily       |
+| Struan       | Emily       |
+| Azaan        | Bryce       |
+| Ete          | Bryce       |
+| Matt         | Chris       | ✔️ |
+| Amy          | Emily       |
+| Bradley      | Don         |
+| Eve          | Don         |
+| John         | Emily       |
+| Paul         | Chris       |
+| Dani         | Don         |
+| Raj          | Bryce       |
+| Philip J     | Don         | ✔️ |
+| Xjana        | Chris       |
