@@ -6,8 +6,6 @@ If a facilitator has not come to you to schedule or have a tech in, please go to
 
 During weeks 4, 6, 8 and 9 if you would like to have a tech in - feel free to grab any teacher to have a chat.
 
-> Who you have a tech in with is subject to change based on availabilty - please stay up to date by checking here regularly
-
 ## Week 1
 
 | Student      | Facilitator | Done |
